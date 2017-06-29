@@ -4,6 +4,9 @@
 *.so
 *.dylib
 
+#workspace file for ide 
+.idea/workspace.xml
+
 # Test binary, build with `go test -c`
 *.test
 
