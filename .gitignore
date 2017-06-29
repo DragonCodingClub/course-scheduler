@@ -5,8 +5,8 @@
 *.dylib
 
 #workspace file for ide 
-.idea/workspace.xml
-.idea/misc.xml
+/.idea/workspace.xml
+/.idea/misc.xml
 
 # Test binary, build with `go test -c`
 *.test
